@@ -14,7 +14,7 @@ public class History {
 		//localSrc when not used within Hadoop
 		//String localSrc = System.getProperty("user.dir") + "/isd-history.txt";
 		
-		String localSrc = "/user/cloudera/" + args[0];
+		String localSrc = args[0];
 		Path path = new Path(localSrc);
 		//Open the file
 		Configuration conf = new Configuration();
