@@ -1,0 +1,55 @@
+USAF - STATION NAME - CTRY - ELEV(M)
+007005 - CWOS 07005                    -    -        
+007011 - CWOS 07011                    -    -        
+007018 - WXPOD 7018                    -    - +7018.0
+007025 - CWOS 07025                    -    -        
+007026 - WXPOD 7026                    - AF - +7026.0
+007034 - CWOS 07034                    -    -        
+007037 - CWOS 07037                    -    -        
+007044 - CWOS 07044                    -    -        
+007047 - CWOS 07047                    -    -        
+007052 - CWOS 07052                    -    -        
+007059 - CWOS 07059                    -    -        
+007064 - CWOS 07064                    -    -        
+007070 - WXPOD 7070                    - AF - +7070.0
+007076 - CWOS 07076                    -    -        
+007083 - CWOS 07083                    -    -        
+007084 - CWOS 07084                    -    -        
+007094 - CWOS 07094                    -    -        
+008268 - WXPOD8278                     - AF - +1156.7
+008401 - XM07                          -    -        
+008403 - XM10                          -    -        
+008405 - XM14                          -    -        
+008411 - XM20                          -    -        
+008413 - XM12                          -    -        
+008414 - XM18                          -    -        
+008415 - XM21                          -    -        
+008416 - XM22                          -    -        
+008418 - XM24                          -    -        
+008419 - XM25                          -    -        
+008421 - XM26                          -    -        
+010000 - BOGUS NORWAY                  - NO -        
+010010 - JAN MAYEN(NOR-NAVY)           - NO - +0009.0
+010013 - ROST                          - NO -        
+010014 - SORSTOKKEN                    - NO - +0048.8
+010015 - BRINGELAND                    - NO - +0327.0
+010016 - RORVIK/RYUM                   - NO - +0014.0
+010017 - FRIGG                         - NO - +0048.0
+010020 - VERLEGENHUKEN                 - NO - +0008.0
+010030 - HORNSUND                      - NO - +0012.0
+010040 - NY-ALESUND II                 - NO - +0008.0
+010050 - ISFJORD RADIO                 - SV - +0009.0
+010060 - EDGEOYA                       - NO - +0014.0
+010070 - NY-ALESUND                    - SV - +0007.7
+010071 - LONGYEARBYEN                  - SV - +0037.0
+010080 - LONGYEAR                      - SV - +0026.8
+010090 - KARL XII OYA                  - SV - +0005.0
+010100 - ANDOYA                        - NO - +0013.1
+010110 - KVITOYA                       - SV - +0010.0
+010120 -                               -    -        
+010140 - SENJA-LAUKHELLA               - NO - +0009.0
+010150 - HEKKINGEN FYR                 - NO - +0014.0
+010160 - KONGSOYA                      - NO - +0020.0
+010170 - AKSELOYA                      - SV - +0006.0
+010190 - SVARTTANGEN                   - NO - +0020.0
+
