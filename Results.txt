@@ -52,4 +52,4 @@ USAF - STATION NAME - CTRY - ELEV(M)
 010160 - KONGSOYA                      - NO - +0020.0
 010170 - AKSELOYA                      - SV - +0006.0
 010190 - SVARTTANGEN                   - NO - +0020.0
-
+etc...
